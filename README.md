@@ -132,10 +132,10 @@ Negative 😠
 ![UI](screenshots/UI.png)
 
 ### 😊 Positive Prediction
-![Positive](screenshots/positive.png)
+![Positive](screenshots/Positive.png)
 
 ### 😠 Negative Prediction
-![Negative](screenshots/negative.png)
+![Negative](screenshots/Negative.png)
 
 ---
 

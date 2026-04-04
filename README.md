@@ -87,7 +87,7 @@ streamlit run app.py
 ## 🧪 Example
 
 **Input:**
-"The movie had amazing visuals but the story was weak."
+"The movie had amazing visuals but the story was weak and felt boring."
 
 **Output:**
 Negative 😠

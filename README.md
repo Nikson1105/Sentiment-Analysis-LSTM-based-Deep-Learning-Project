@@ -87,7 +87,7 @@ streamlit run app.py
 ## 🧪 Example
 
 **Input:**
-"The movie had amazing visuals but the story was weak."
+"The movie had amazing visuals but the story was weak and felt boring."
 
 **Output:**
 Negative 😠
@@ -132,10 +132,10 @@ Negative 😠
 ![UI](screenshots/UI.png)
 
 ### 😊 Positive Prediction
-![Positive](screenshots/positive.png)
+![Positive](screenshots/Positive.png)
 
 ### 😠 Negative Prediction
-![Negative](screenshots/negative.png)
+![Negative](screenshots/Negative.png)
 
 ---
 
